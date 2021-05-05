@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  specialty: MyString
+  address: MyText
+  availability: MyString
+  phone: 1
+  email: MyString
+  next_appoint: 2021-05-05
+
+two:
+  name: MyString
+  specialty: MyString
+  address: MyText
+  availability: MyString
+  phone: 1
+  email: MyString
+  next_appoint: 2021-05-05
