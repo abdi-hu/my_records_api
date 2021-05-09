@@ -16,6 +16,7 @@ specialties = ['Internal Medicine', 'Cardiology', 'Orthapedic', 'Podiatry', 'Der
         phone: Faker::PhoneNumber.cell_phone,
         email: Faker::Internet.email,
         next_appoint: Faker::Date.in_date_period(month: 6),
+        image: Faker::Avatar.image(format: "jpg"),
     )
 end
 
